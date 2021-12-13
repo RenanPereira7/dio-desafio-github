@@ -1,0 +1,26 @@
+dir - Lista as pastas
+cd - Entra na pasta
+cd .. - Volta na pasta
+cls - Limpar a tela
+mkdir (nome)- Cria pasta
+echo > hello.txt - Por exemplo criou o arquivo hello.txt
+del (nome) - Exclui o arquivo. Para excluir tudo que esta na pasta é so colocar o nome da pasta
+rmidr (nome) /S /Q = Deleta a pasta
+mv (nome arq) ./(nome da pasta a mover) - move o arquivs
+
+openssl sha1 (nome arquivo) - Encripta com uma chave de 40 caracteres
+git init - Inicia o git dentro da pasta
+ls -a - Mostra arquivos ocultos
+ls- lista os arquivos
+git config --global user.email "email" - configura o email
+git config --global user.name (nome) - Nome 
+git add *- move os arquivos novos para dentro do git 
+git commit -m "nome do commit" - faz o commit
+git remove -v - lista repositorios cadastrados
+git push origin master - envia os arquivos 
+git pull origin master - puxa os arquivos modificados
+--------------------.MD ----------------------------------
+- Bolinha de marcação
+_ - Itálico
+
+
